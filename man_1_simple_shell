@@ -1,0 +1,14 @@
+.\" Manpage for simpe_shell
+.TH man 8 "11 NOV 2021" "1.0" "simple shell man page"
+.SH NAME
+simple shell \- simple shell command language interpreter
+.SH SYNOPSIS
+simple_shell [USERNAME]
+.SH DESCRIPTION
+simple shell is high level unix shell that provides a command line user interface for unix-like operating systems. The shell can be used both an interactive command language amnd a scripting languages and can be used by operating system to control the execution of the system using shell scripts.
+.SH OPTIONS
+The simple shell does not take any options.
+.SH BUGS
+No know bugs.
+.SH AUTHOR
+Eyasu Hailegebriel
